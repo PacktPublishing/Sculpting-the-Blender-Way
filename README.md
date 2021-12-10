@@ -47,7 +47,7 @@ Click on the following link to see the Sculpting in Action:
 
 * 3D Game Design with Unreal Engine 4 and Blender [[Packt]](https://www.packtpub.com/product/3d-game-design-with-unreal-engine-4-and-blender/9781785881466) [[Amazon]](https://www.amazon.com/dp/1785881469)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Xury Greer**
 is a digital media generalist and educator in the Greater Seattle Area. He earned his bachelor's degree in game design from Lake Washington Institute of Technology. He specializes in 3D characters, and technical art, and loves to share his knowledge. Xury is an avid member and Co-Organizer of the Seattle Blender User Group, and aims to help others by teaching Blender, as well as other 3D content creation tools. He is always excited to get new users started on their digital media production journey.
 
