@@ -51,3 +51,6 @@ Click on the following link to see the Sculpting in Action:
 **Xury Greer**
 is a digital media generalist and educator in the Greater Seattle Area. He earned his bachelor's degree in game design from Lake Washington Institute of Technology. He specializes in 3D characters, and technical art, and loves to share his knowledge. Xury is an avid member and Co-Organizer of the Seattle Blender User Group, and aims to help others by teaching Blender, as well as other 3D content creation tools. He is always excited to get new users started on their digital media production journey.
 
+## Other books by the authors
+* [Blender 3D By Example - Second Edition](https://www.packtpub.com/free-ebook/blender-3d-by-example-second-edition/9781789612561)
+
