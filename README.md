@@ -4,10 +4,10 @@
 
 This is the repository for [Sculpting the Blender Way](https://www.packtpub.com/product/sculpting-the-blender-way/9781801073875), published by Packt.
 
-**Explore 3D sculpting workflows and the latest features including face sets, mesh filters, and the cloth brush**
+**Explore Blender's 3D sculpting workflows and latest features, including Face Sets, Mesh Filters, and the Cloth brush**
 
 ## What is this book about?
-Blender 3D is a free and open-source program that can be used for every part of the 3D production pipeline. It has several robust feature sets for creating 3D art, which have contributed to its rising popularity in the last few years. Sculpting is perhaps the most enjoyable and artistic method for creating 3D art as it relies less on technical knowledge and focuses on artistic brushes. The latest release of Blender makes the sculpting feature set more powerful than ever, so now is an excellent time to learn it!
+Blender 3D is a free and open source program that can be used for every part of the 3D production pipeline. It has several robust feature sets for creating 3D art that have contributed to its rising popularity in the last few years. Sculpting is perhaps the most enjoyable and artistic method for creating 3D art as it relies less on technical knowledge and focuses on artistic brushes. The latest release of Blender makes the sculpting feature set more powerful than ever, so now is an excellent time to learn it! This book covers the expansive list of features in the Blender 2.93 LTS release, as well as the exciting all-new Blender 3.0 release. This book will be an excellent resource for professionals who need a production-ready long-term support release of the software, as well as hobbyists looking for a cutting-edge experience.
 
 This book covers the following exciting features: 
 * Configure your graphics tablet for use in 3D sculpting
