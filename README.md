@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781801073875)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Sculpting the Blender Way
 
 <a href="https://www.packtpub.com/product/sculpting-the-blender-way/9781801073875"><img src="https://static.packt-cdn.com/products/9781801073875/cover/smaller" alt="Sculpting the Blender Way" height="256px" align="right"></a>
